@@ -19,7 +19,13 @@
     "@angular/platform-browser": "~10.0.2",
     "@angular/platform-browser-dynamic": "~10.0.2",
     "@angular/router": "~10.0.2",
+    "@popperjs/core": "^2.6.0",
+    "animate.css": "^4.1.1",
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "ng-starrating": "^1.0.20",
     "rxjs": "~6.5.5",
+    "swiper": "^6.4.11",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },

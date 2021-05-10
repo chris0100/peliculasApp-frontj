@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import {PeliculasService} from './services/peliculas.service';
+import {CarteleraResponse} from './interfaces/cartelera-response';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +9,6 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'peliculasApp';
+
+
 }
